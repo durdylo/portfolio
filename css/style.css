@@ -132,6 +132,11 @@ sub {
 sup {
   top: -.5em; }
 
+#profilImage{
+    background-image:url(https://passerelle-numerique.fr/wp-content/uploads/2019/10/Denis-e1582208332805.jpg?x63004);
+}
+
+
 a {
   color: #007bff;
   text-decoration: none;
@@ -1507,7 +1512,6 @@ pre {
   .table-hover .table-dark:hover > td,
   .table-hover .table-dark:hover > th {
     background-color: #b9bbbe; }
-
 .table-active,
 .table-active > th,
 .table-active > td {
