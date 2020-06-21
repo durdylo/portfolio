@@ -328,6 +328,13 @@ h5, .h5 {
 
 h6, .h6 {
   font-size: 1rem; }
+  
+.bg-F5AA25{
+  background-color: #f5aa25;
+}
+.bg-0C0416{
+  background-color: #0C0416;
+}
 
 .lead {
   font-size: 1.25rem;
